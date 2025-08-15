@@ -5,4 +5,4 @@ Each pattern requires careful use of loops (for, while), conditional statements,
 
 ## Compile and run using :-
   - javac filename.java
-  - java filenam
+  - java filename
